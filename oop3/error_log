@@ -1,0 +1,10 @@
+[16-Jul-2016 23:30:59 America/Chicago] PHP Fatal error:  Cannot instantiate abstract class Address in /home/nbassen/public_html/355/Assignments/OOP3/demo.php on line 23
+[16-Jul-2016 23:35:28 America/Chicago] PHP Fatal error:  Abstract function Address::_init() cannot contain body in /home/nbassen/public_html/355/Assignments/OOP3/class.Address.inc on line 121
+[16-Jul-2016 23:40:45 America/Chicago] PHP Fatal error:  Abstract function Address::_init() cannot contain body in /home/nbassen/public_html/355/Assignments/OOP3/class.Address.inc on line 121
+[16-Jul-2016 23:41:24 America/Chicago] PHP Fatal error:  Call to undefined method AddressResidence::setAddressTypeId() in /home/nbassen/public_html/355/Assignments/OOP3/class.AddressResidence.inc on line 11
+[16-Jul-2016 23:42:41 America/Chicago] PHP Fatal error:  Call to undefined method AddressResidence::_setAddressTypeId() in /home/nbassen/public_html/355/Assignments/OOP3/class.AddressResidence.inc on line 11
+[16-Jul-2016 23:43:43 America/Chicago] PHP Fatal error:  Call to undefined method AddressBusiness::setAddressTypeId() in /home/nbassen/public_html/355/Assignments/OOP3/class.AddressBusiness.inc on line 11
+[16-Jul-2016 23:44:03 America/Chicago] PHP Fatal error:  Call to undefined method AddressResidence::__setAddressTypeId() in /home/nbassen/public_html/355/Assignments/OOP3/class.Address.inc on line 96
+[16-Jul-2016 23:44:15 America/Chicago] PHP Fatal error:  Call to undefined method AddressResidence::__setAddressTypeId() in /home/nbassen/public_html/355/Assignments/OOP3/class.Address.inc on line 96
+[16-Jul-2016 23:44:20 America/Chicago] PHP Fatal error:  Call to undefined method AddressResidence::__setAddressTypeId() in /home/nbassen/public_html/355/Assignments/OOP3/class.Address.inc on line 96
+[16-Jul-2016 23:45:44 America/Chicago] PHP Notice:  Undefined or unallowed property via __set: address_type_id in /home/nbassen/public_html/355/Assignments/OOP3/class.Address.inc on line 102

@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<mysqldump xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<database name="baseball">
+  <table_data name="statstest">
+		<row>
+			<field name="id">1</field>
+			<field name="player">1</field>
+		</row>
+		<row>
+			<field name="id">2</field>
+			<field name="player">2</field>
+		</row>
+		<row>
+			<field name="id">3</field>
+			<field name="player">3</field>
+		</row>
+		<row>
+			<field name="id">4</field>
+			<field name="player">4</field>
+		</row>	
+	</table_data>
+</database>
+</mysqldump>

@@ -1,0 +1,20 @@
+{
+    "name": "stats",
+    "description": "stat collector",
+    "require": {
+        "Mockery/Mockery": ">=0.7.2"
+        },
+    "require-dev": {
+        "phpunit/phpunit": "4.0.*",
+        "Mockery/Mockery": ">=0.7.2",
+        "phpunit/dbunit": ">=1.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "stats\\": "stats",
+            "stats\\models\\": "stats/includes/models",
+            "stats\\libraries\\": "stats/includes/libraries"
+
+        }
+    }
+}

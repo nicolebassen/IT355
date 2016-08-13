@@ -1,0 +1,23 @@
+[09-Jul-2016 21:42:44 America/Chicago] PHP Notice:  Undefined propery via __get: subdivision in /home/nbassen/public_html/355/Assignments/OOP2/class.Address.inc on line 42
+[09-Jul-2016 21:42:44 America/Chicago] PHP Notice:  Undefined propery via __get: subdivision in /home/nbassen/public_html/355/Assignments/OOP2/class.Address.inc on line 42
+[09-Jul-2016 22:32:34 America/Chicago] PHP Notice:  Undefined propery via __get: subdivision in /home/nbassen/public_html/355/Assignments/OOP2/class.Address.inc on line 42
+[09-Jul-2016 22:32:34 America/Chicago] PHP Notice:  Undefined propery via __get: subdivision in /home/nbassen/public_html/355/Assignments/OOP2/class.Address.inc on line 42
+[09-Jul-2016 23:02:48 America/Chicago] PHP Notice:  Undefined property via __get: subdivision in /home/nbassen/public_html/355/Assignments/OOP2/class.Address.inc on line 42
+[09-Jul-2016 23:02:48 America/Chicago] PHP Notice:  Undefined property via __get: subdivision in /home/nbassen/public_html/355/Assignments/OOP2/class.Address.inc on line 42
+[09-Jul-2016 23:18:41 America/Chicago] PHP Catchable fatal error:  Object of class Address could not be converted to string in /home/nbassen/public_html/355/Assignments/OOP2/demo.php on line 37
+[09-Jul-2016 23:24:51 America/Chicago] PHP Notice:  Undefined property via __get: valid_address_types in /home/nbassen/public_html/355/Assignments/OOP2/class.Address.inc on line 74
+[09-Jul-2016 23:42:54 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/nbassen/public_html/355/Assignments/OOP2/demo.php on line 47
+[09-Jul-2016 23:47:57 America/Chicago] PHP Fatal error:  Call to undefined method Address::_setAddressTypeId() in /home/nbassen/public_html/355/Assignments/OOP2/class.Address.inc on line 92
+[10-Jul-2016 00:03:39 America/Chicago] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/nbassen/public_html/355/Assignments/OOP2/class.Address.inc on line 123
+[10-Jul-2016 00:08:39 America/Chicago] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/nbassen/public_html/355/Assignments/OOP2/class.Address.inc on line 123
+[10-Jul-2016 00:23:36 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'nbassen_grcc'@'localhost' (using password: YES) in /home/nbassen/public_html/355/Assignments/OOP2/class.Database.inc on line 30
+[10-Jul-2016 00:23:36 America/Chicago] PHP Fatal error:  Failed to connect to MySQL: Access denied for user 'nbassen_grcc'@'localhost' (using password: YES) in /home/nbassen/public_html/355/Assignments/OOP2/class.Database.inc on line 33
+[10-Jul-2016 00:24:00 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'nbassen_user'@'localhost' (using password: YES) in /home/nbassen/public_html/355/Assignments/OOP2/class.Database.inc on line 30
+[10-Jul-2016 00:24:00 America/Chicago] PHP Fatal error:  Failed to connect to MySQL: Access denied for user 'nbassen_user'@'localhost' (using password: YES) in /home/nbassen/public_html/355/Assignments/OOP2/class.Database.inc on line 33
+[10-Jul-2016 00:24:09 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'nbassen'@'localhost' (using password: YES) in /home/nbassen/public_html/355/Assignments/OOP2/class.Database.inc on line 30
+[10-Jul-2016 00:24:09 America/Chicago] PHP Fatal error:  Failed to connect to MySQL: Access denied for user 'nbassen'@'localhost' (using password: YES) in /home/nbassen/public_html/355/Assignments/OOP2/class.Database.inc on line 33
+[10-Jul-2016 00:26:35 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/nbassen/public_html/355/Assignments/OOP2/class.Address.inc on line 129
+[10-Jul-2016 00:27:43 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/nbassen/public_html/355/Assignments/OOP2/class.Address.inc on line 129
+[10-Jul-2016 22:57:00 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/nbassen/public_html/355/Assignments/OOP2/class.Address.inc on line 129
+[10-Jul-2016 22:59:37 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/nbassen/public_html/355/Assignments/OOP2/class.Address.inc on line 129
+[10-Jul-2016 23:02:46 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/nbassen/public_html/355/Assignments/OOP2/class.Address.inc on line 134

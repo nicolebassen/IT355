@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<mysqldump xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<database name="baseball">
+  <table_data name="statstest">
+		<row>
+			<field name="id">1</field>
+			<field name="playerid">1</field>
+			<field name="YR">2011</field>
+			<field name="GP">142</field>
+			<field name="AB">435</field>
+			<field name="R">73</field>
+			<field name="H">143</field>
+			<field name="HR">14</field>
+			<field name="RBI">53</field>
+			<field name="Salary">2000000</field>
+			<field name="Bio">Great Glove</field>
+		</row>
+		<row>
+			<field name="id">2</field>
+			<field name="playerid">2</field>
+			<field name="YR">2013</field>
+			<field name="GP">61</field>
+			<field name="AB">154</field>
+			<field name="R">23</field>
+			<field name="H">80</field>
+			<field name="HR">3</field>
+			<field name="RBI">13</field>
+			<field name="Salary">5000000</field>
+			<field name="Bio">Injured</field>
+		</row>
+		<row>
+			<field name="id">3</field>
+			<field name="playerid">3</field>
+			<field name="YR">2006</field>
+			<field name="GP">162</field>
+			<field name="AB">564</field>
+			<field name="R">90</field>
+			<field name="H">186</field>
+			<field name="HR">23</field>
+			<field name="RBI">98</field>
+			<field name="Salary">6000000</field>
+			<field name="Bio">Steady Bat</field>
+		</row>
+		<row>
+			<field name="id">4</field>
+			<field name="playerid">4</field>
+			<field name="YR">2009</field>
+			<field name="GP">132</field>
+			<field name="AB">405</field>
+			<field name="R">34</field>
+			<field name="H">112</field>
+			<field name="HR">3</field>
+			<field name="RBI">31</field>
+			<field name="Salary">1500000</field>
+			<field name="Bio">Utility Infielder</field>
+		</row>	
+	</table_data>
+</database>
+</mysqldump>

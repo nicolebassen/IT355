@@ -1,0 +1,3 @@
+[31-Jul-2016 15:30:19 America/Chicago] PHP Warning:  require_once(../app/controllershome.php): failed to open stream: No such file or directory in /home/nbassen/public_html/355/Assignments/mvc/app/core/App.php on line 19
+[31-Jul-2016 15:30:19 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '../app/controllershome.php' (include_path='.:/opt/php54/lib/php') in /home/nbassen/public_html/355/Assignments/mvc/app/core/App.php on line 19
+[31-Jul-2016 16:00:03 America/Chicago] PHP Warning:  Missing argument 2 for Controller::view(), called in /home/nbassen/public_html/355/Assignments/mvc/app/controllers/home.php on line 9 and defined in /home/nbassen/public_html/355/Assignments/mvc/app/core/Controller.php on line 10
